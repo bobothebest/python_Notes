@@ -40,3 +40,12 @@ for line in file:
         print(fields[0],fields[1])
         count += 1
 
+#用pandas打开csv
+df = pd.read_csv('/Users/apple/Downloads/科科/python_Notes/AAPL.csv')
+df.tail()
+
+
+
+
+
+
