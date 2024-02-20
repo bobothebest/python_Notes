@@ -12,3 +12,10 @@ type(1.234)
 type('hello')
 type([1,2,3,4])
 
+#%% cell
+
+# In[数字]
+#按模块执行
+#ctrl+enter
+
+
